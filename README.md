@@ -18,5 +18,8 @@ Perancangan Sistem Informasi Pariwisata Bandar Lampung adalah rencana pengembang
 
 ## Screenshots
 
-![Tampilan Website](https://github.com/ichwansh03/kantinQ/blob/main/screenshot/pict1.png)
-![Tampilan Website](https://github.com/ichwansh03/kantinQ/blob/main/screenshot/pict2.png)
+### Tampilan Depan
+![Tampilan Website](https://github.com/AhmadJanuar1/web-app/blob/main/screenshot/pict1.png)
+### Tampilan galeri
+![Tampilan Website](https://github.com/AhmadJanuar1/web-app/blob/main/screenshot/pict2.png)
+
